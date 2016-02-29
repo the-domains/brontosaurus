@@ -1,0 +1,28 @@
+name: Brontosaurus
+favicon: null
+layout_spectrum: 0.5811089624185115
+typography_spectrum: 0.524648126680404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9625412039458752
+  lightness: 0.6337238689884543
+  saturation: 0.10179430828429759
+  rhythmicContrast: 0.2106263821478933
+purpose: []
