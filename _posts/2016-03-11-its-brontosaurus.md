@@ -3,22 +3,22 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |
   It's BRONTOSAURUS!
-datePublished: '2016-03-11T19:06:57.895Z'
-dateModified: '2016-03-11T19:04:04.251Z'
-title: ''
+datePublished: '2016-04-22T22:32:06.437Z'
+dateModified: '2016-03-14T09:16:01.332Z'
+title: 'A Brief History of BRONTOSAURUS!'
 author: []
+sourcePath: _posts/2016-03-11-its-brontosaurus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-its-brontosaurus.md
-published: true
 url: its-brontosaurus/index.html
 _type: Article
 
