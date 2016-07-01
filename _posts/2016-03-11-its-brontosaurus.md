@@ -4,24 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "It's BRONTOSAURUS! "
-datePublished: '2016-04-22T22:35:11.017Z'
-dateModified: '2016-04-22T22:33:48.132Z'
+description: 'It''s BRONTOSAURUS! '
+datePublished: '2016-07-01T23:36:02.659Z'
+dateModified: '2016-07-01T23:10:55.874Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-its-brontosaurus.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: null
+starred: true
 url: its-brontosaurus/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cd11b28-e399-4bf5-9c44-7bad75748f0a.jpg)
+
 It's BRONTOSAURUS! 
 
 Way back when scientists were madly digging up and naming dinosaurs, bearded paleontologist Othniel Charles Marsh discovered and named a massive sauropod skeleton: the apatosaurus. Soon after, he found another, similar skeleton and named that one too: the brontosaurus. Here is an artist's rendering of Mr. Marsh.
