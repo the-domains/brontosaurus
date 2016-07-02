@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'It''s BRONTOSAURUS! '
-datePublished: '2016-07-01T23:36:02.659Z'
-dateModified: '2016-07-01T23:10:55.874Z'
+datePublished: '2016-07-02T00:49:30.915Z'
+dateModified: '2016-07-02T00:49:17.622Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-its-brontosaurus.md
@@ -17,7 +17,7 @@ url: its-brontosaurus/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cd11b28-e399-4bf5-9c44-7bad75748f0a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fca5e36-102f-4b63-9bfa-9d562af0f6b7.gif)
 
 It's BRONTOSAURUS! 
 
