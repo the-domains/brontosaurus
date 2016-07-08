@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'It''s BRONTOSAURUS! '
-datePublished: '2016-07-08T01:23:41.031Z'
-dateModified: '2016-07-08T01:23:13.857Z'
+datePublished: '2016-07-08T01:28:02.262Z'
+dateModified: '2016-07-08T01:27:57.244Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-its-brontosaurus.md
