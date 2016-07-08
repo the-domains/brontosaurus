@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'It''s BRONTOSAURUS! '
-datePublished: '2016-07-02T00:49:30.915Z'
-dateModified: '2016-07-02T00:49:17.622Z'
+datePublished: '2016-07-08T01:23:41.031Z'
+dateModified: '2016-07-08T01:23:13.857Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-its-brontosaurus.md
@@ -17,16 +17,16 @@ url: its-brontosaurus/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fca5e36-102f-4b63-9bfa-9d562af0f6b7.gif)
-
 It's BRONTOSAURUS! 
 
-Way back when scientists were madly digging up and naming dinosaurs, bearded paleontologist Othniel Charles Marsh discovered and named a massive sauropod skeleton: the apatosaurus. Soon after, he found another, similar skeleton and named that one too: the brontosaurus. Here is an artist's rendering of Mr. Marsh.
+Back when scientists were madly digging up and naming dinosaurs, bearded paleontologist Othniel Charles Marsh discovered and named a massive sauropod skeleton: the apatosaurus. Here is an artist's rendering of Mr. Marsh.
 ![Invented the brontosaurus.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca582214-87de-4ed4-863d-69e6af2187dd.png)
 
-Apatosaurus means "deceptive lizard." This name is no fun, and very few people felt the urge to say it more than once. The dinosaur was a flop. Brontosaurus, meanwhile, means "thunder lizard," and is awesome. This is the sauropod you've heard of. 
+"Apatosaurus" means "deceptive lizard." This name is no fun, and very few people felt the urge to say it more than once. Needless to say, the dinosaur was a flop.
 
-But trouble was brewing for brontosaurus. Some guy named Elmer --- a hairless man from Kansas with no marketing sense --- reviewed the two specimens and declared them the same species. Scientists were forced to abandon the second, better name. 
+Soon thereafter, Mr. Marsh found another similar skeleton and named that one too: the brontosaurus. Brontosaurus, means "thunder lizard." This is the sauropod you've heard of.
+
+But trouble was brewing for brontosaurus. Some guy named Elmer --- a hairless man from Kansas with no marketing sense --- reviewed the two specimens and declared they were the same species. Scientists were forced to abandon the second, better name. 
 
 Unperturbed, brontosaurus went on to great success, dominating lunch boxes, gas stations and casual conversation for the next hundred years. Meanwhile, dorks everywhere delighted in the opportunity to correct preschoolers on their nomenclature.
 
