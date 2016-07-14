@@ -4,14 +4,14 @@
         <description><![CDATA[A creative collaboratory.]]></description>
         <link>http://brontosaurus.la/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 01:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 19:31:05 GMT</lastBuildDate>
         <atom:link href="http://brontosaurus.la/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Brief History of BRONTOSAURUS!]]></title>
-            <description><![CDATA[<p>It's BRONTOSAURUS! </p>]]></description>
+            <description><![CDATA[<p>It's BRONTOSAURUS!</p>]]></description>
             <link>http://brontosaurus.la/its-brontosaurus/index.html</link>
             <guid isPermaLink="false">b5d6755a-feac-4885-910d-b85a9b9adfb6</guid>
-            <pubDate>Fri, 08 Jul 2016 01:28:02 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 19:31:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
