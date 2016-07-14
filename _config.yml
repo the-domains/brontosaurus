@@ -1,20 +1,4 @@
-name: Brontosaurus
-favicon: null
-layout_spectrum: 0.0393
 typography_spectrum: 0.30225
-title: A creative collaboratory.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.6875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0393
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Brontosaurus
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: A creative collaboratory.
 purpose: []
