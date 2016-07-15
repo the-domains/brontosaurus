@@ -1,4 +1,27 @@
+name: BRONTOSAURUS!
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b2a8d4b-c4ec-4388-8461-63be920bb599.png
+layout_spectrum: 0.0393
 typography_spectrum: 0.30225
+author:
+  name: BRONTOSAURUS!
+  email: hello@brontosaurus.la
+  url: brontosaurus.la
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/524b213b-1444-4c56-b338-40d1de5a2bbf.svg
+title: Ad Creative & Production
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -10,27 +33,4 @@ color:
   lightness: 0.1875
   saturation: 0.6875
   rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.0393
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: BRONTOSAURUS!
-  email: hello@brontosaurus.la
-  url: brontosaurus.la
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/524b213b-1444-4c56-b338-40d1de5a2bbf.svg
-name: BRONTOSAURUS!
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b2a8d4b-c4ec-4388-8461-63be920bb599.png
-title: A creative collaboratory.
 purpose: []
