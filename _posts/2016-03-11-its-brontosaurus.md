@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-14T19:31:03.824Z'
-sourcePath: _posts/2016-03-11-its-brontosaurus.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-07-14T19:30:49.205Z'
-title: ''
-publisher: null
-description: It's BRONTOSAURUS!
-inLanguage: null
 inNav: false
+inLanguage: null
+keywords: []
+description: It's BRONTOSAURUS!
+datePublished: '2016-07-17T07:35:57.205Z'
+dateModified: '2016-07-17T07:35:29.465Z'
+sourcePath: _posts/2016-03-11-its-brontosaurus.md
+author: []
+title: ''
+authors: []
+publisher: null
 starred: false
 url: its-brontosaurus/index.html
 _type: Article
@@ -19,7 +19,7 @@ _type: Article
 ---
 It's BRONTOSAURUS!
 
-Way back when scientists were madly digging up and naming dinosaurs, bearded paleontologist Othniel Charles Marsh discovered and named a massive sauropod skeleton: the apatosaurus. Soon after, he found another, similar skeleton and named that one too: the brontosaurus. Here is an artist's rendering of Mr. Marsh:
+Way back when scientists were madly digging up and naming dinosaurs, bearded paleontologist Othniel Charles Marsh discovered and named a massive sauropod skeleton: the apatosaurus. Here is an artist's rendering of Mr. Marsh:
 ![Look at that beard.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/699c4b29b8942a322ef153db148a16f3a25a82af.png)
 
 "Apatosaurus" means "deceptive lizard." This name is no fun and very few people felt the urge to say it more than once. The dinosaur was a flop.
